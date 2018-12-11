@@ -1,0 +1,14 @@
+ p {
+      
+      font-family:Arial;
+    }
+
+h1 {
+  	
+  	color: maroon;
+  
+}
+   
+
+
+/* CSS references HTML element tag names, the word or character between the angle brackets, to apply styling to. Then the CSS styling is contained between curly brackets, and each CSS property ends with a semicolon. */

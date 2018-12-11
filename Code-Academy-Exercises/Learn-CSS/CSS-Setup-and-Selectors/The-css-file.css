@@ -1,0 +1,8 @@
+
+    p {
+      
+      font-family:Arial;
+    }
+   
+
+/* I moved the CSS styling from the HTML page to a new CSS only page. Keeping HTML and CSS separate can help make code clearer as well as make it easier to identify the source of errors. */

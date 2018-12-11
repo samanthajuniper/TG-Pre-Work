@@ -1,0 +1,7 @@
+h5, p {
+  
+  font-family: Georgia;
+  
+}
+
+/* Mulitple CSS selectors can be used at the same time by spearating them with a comma. On line 1, both h5 tags and p tags will be in the font Georgia. This helps reduce redundancy in our code so that we only have to write the same styling element once */

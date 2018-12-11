@@ -1,0 +1,27 @@
+ p {
+      
+      font-family: Arial;
+    }
+
+h1 {
+  	
+  	color: maroon;
+  
+}
+   
+.title {
+  
+  color:teal;
+}
+
+.uppercase {
+  
+  text-transform: uppercase;
+}
+  
+
+<h1 class="title uppercase">Top Vacation Spots</h1>
+
+
+
+/* Multiple classes can be added to a single HTML element. On line 23, the html element has both a class of title and a class of upper case, which are separated by a space. The CSS code on lines 12-20 apply the color teal and uppercase lettering the the h1 element on line 23. */

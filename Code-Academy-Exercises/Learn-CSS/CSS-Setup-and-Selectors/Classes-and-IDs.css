@@ -1,0 +1,9 @@
+.publish-time {
+  
+  color:gray;
+}
+
+<h6 class="publish-time">Published: 2 Days Ago</h6>
+
+
+/* I learned that classes should be used to reduce redundancy of styling similar items again and again. Class items are meant to be reused across multiple elements. Ids on the other hand are meant to be used for one element only. */

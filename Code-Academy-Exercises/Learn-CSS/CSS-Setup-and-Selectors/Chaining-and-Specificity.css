@@ -1,0 +1,12 @@
+h5 {
+  
+  color:rebeccapurple;
+  
+}
+
+.description h5 {
+    
+  color: teal;
+}
+
+/* h5 tags in the HTML document will be styled in rebeccapurple, unless they are nested within a desription. The more specific, chained CSS selector overwrites the more general h5 stlying to make these specific h5 elements teal. */ 
