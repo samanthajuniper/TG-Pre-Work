@@ -1,0 +1,1 @@
+/* We can reset the default box model to border-box, which is a property that allows the overall dimensions of the box to stay the same. The content area is automatically sized based on the amount of width left after the padding and border have been taken into account. In sumamry, the padding and border thickness are included inside of the box. */
