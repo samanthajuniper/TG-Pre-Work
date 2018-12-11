@@ -1,0 +1,1 @@
+/* Another difference between padding and margins is that top and bottom margins collapse while top and bottom paddings do not. Horizontal margins are always displayed and added together. Vertical margins however do not add togehter; rather the largest margin is chosen, and set as the distance between adjacent elements. */

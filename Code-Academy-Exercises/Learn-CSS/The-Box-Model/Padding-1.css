@@ -1,0 +1,33 @@
+.navigation li {
+    
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+
+.share a {
+    
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px;
+}
+
+h2 {
+    
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+/*I find it useful to think of padding as the matting a photograph is placed on within a frame. Padding is often used to expand the background color and to make content seem less squished. Padding can be equally set for all four sides of the content (see lines 5 & 17) or it can be set individually for each side (see lines 27-30). */

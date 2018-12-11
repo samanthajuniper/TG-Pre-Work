@@ -1,0 +1,10 @@
+* {
+    
+  margin: 0;
+  padding: 0;
+    
+}
+
+
+
+/* Major web browsers have a default stylesheet that uses default CSS rules that values to the paddings and margins of a page. In order to override these default values, the first rule on your CSS stylesheet should set the margins and paddings to 0 (see lines 1-6 ). Values of 0 do not need the px measurement. */

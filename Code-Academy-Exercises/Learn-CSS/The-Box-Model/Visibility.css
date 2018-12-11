@@ -1,0 +1,7 @@
+.donate {
+  
+  visibility: hidden;
+}
+
+
+/* The visibility property takes one of two values: hidden or visible. The hidden value used in line 3 hides the element's content from the user's view, but an empty space remains on the page. The contents can still be viewed in the page's source code. If I wanted to remove the empty space I would use the CSS declaration "display:none;". */

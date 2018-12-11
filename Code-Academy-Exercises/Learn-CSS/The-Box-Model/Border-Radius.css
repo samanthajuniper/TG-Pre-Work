@@ -1,0 +1,30 @@
+#banner .content h1 {
+  border: solid 3px white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+
+#banner .content h1 {
+  border: solid 3px white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 100%;
+}
+
+#banner .content h1 {
+  border: solid 3px white;
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 75%;
+}
+
+
+
+/* I learned how to use the border-radius property to round out the corners of a border. A border-radius equal to 100% will create a circle. I created a border-radius of 75% and 100%, and the border no longer contained the information on the page. */

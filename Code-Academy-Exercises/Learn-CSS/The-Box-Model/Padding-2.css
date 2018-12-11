@@ -1,0 +1,21 @@
+h2 {
+    
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  padding: 20px 30px;
+
+}
+
+p {
+    
+  color: grey;
+  font-size: 16px;
+  line-height: 48px;
+  padding: 10px 20px;
+}
+
+
+/* On line 8 I learned how to use a shortcut for padding: 20px is the amount of padding for the top and bottom sides, while 30px is the amount of padding for the left and right sides. I could also make the padding size different on each side in a single line of code by listing the four padding values in a clockwise order (top, right, bottom, left).*/
