@@ -1,0 +1,14 @@
+#main {
+    
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+  height:1000px;
+  overflow: scroll;
+}
+
+
+
+
+/* The overflow property controls what happens if an element is larger than its parent's containing area. It has three possible values: hidden, scroll ,and visible (default). The overflow proprety is set on a parent element, and tells the browser how to read child elements if overflow is needed. Line 8 tells the browser to dispaly the overflowing content with a scroll bar. */

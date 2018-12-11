@@ -1,0 +1,22 @@
+p {
+    
+  color: grey;
+  font-size: 16px;
+  line-height: 48px;
+  padding: 10px 20px;
+  margin-top: 60px;
+}
+
+.share a {
+    
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  padding: 14px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+/* A margin is the space directly outside of the border. Margins can be equally set for all four sides of the content (see line 19) or it can be set individually for each side (See line 7). */

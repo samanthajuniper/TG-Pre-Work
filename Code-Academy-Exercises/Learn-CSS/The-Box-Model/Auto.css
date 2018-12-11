@@ -1,0 +1,15 @@
+.pull-quote {
+  
+  width: 350px;
+  margin: 0 auto;
+}
+
+
+#main {
+  padding: 40px;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+}
+
+/* I learned how to center content using the margin proprety. I first had to specify a width because the page would have otherwise defaulted to 100% width and then there would be nothing to center (see line 3). Then I set the margin top and bottom values to 0 and the left and right values to auto, which tells the browser to adjust left and right until the element with the pull-quote class is centered within its containing element(see line 4). */

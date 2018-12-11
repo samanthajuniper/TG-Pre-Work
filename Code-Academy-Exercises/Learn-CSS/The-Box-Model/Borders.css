@@ -1,0 +1,20 @@
+h2 {
+    
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  border: 1px dotted red;  
+}
+
+#banner .content h1 {
+    
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid white;
+}
+
+
+/* Borders surround an element, and take three attributes: width, style, and color. On line 7 I created a 1px banner that is dotted and red to surround h2 elements. On line 16 I created a border that is 3px thick, solid, and white to surround #banner .content h1 elements. */

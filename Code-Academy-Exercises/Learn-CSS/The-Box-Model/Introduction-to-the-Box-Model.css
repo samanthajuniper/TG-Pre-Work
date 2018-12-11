@@ -1,0 +1,15 @@
+#banner {
+    
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 400px;
+  width: 90%;
+  padding: 25px;
+  margin: 10px;
+  overflow: scroll;
+  border:1px solid red;
+}
+
+
+/* Elements of a web page are contained within a box, which is a concept desribed as the box model. Properties such as height, width, paddings, margins, borders, and overflow create the paramaters of this box. */
