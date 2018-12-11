@@ -1,0 +1,7 @@
+h2.destination {
+  
+  font-family: cursive;
+}
+
+
+/* I learned how to chain two classes in CSS by combining the "h2" and "destination" classes on lines 1-4. The curisve font will now display only on HTML elements that have both the h2 tag and the destination class. */

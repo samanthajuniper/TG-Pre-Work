@@ -1,0 +1,16 @@
+cursive {
+  
+  font-family:cursive;
+}
+
+.capitalize {
+  
+  text-transform: capitalize;
+}
+
+
+<h1 class="title cursive capitalize" >Top Vacation Spots</h1>
+
+
+
+/* I learned that specificity is the order in which the browser applies CSS styles. Ids have the highest specificity, followed by classes, and tags have the lowest specificity. Therfore, an id attribute will override any other styling elements applied to the same HTML element. Starting with the lowest degree of specificity makes large blocks of code easer to edit in the long run. On line 12 the HTML element has three seaprate class values that the CSS file will apply styling to for each. */

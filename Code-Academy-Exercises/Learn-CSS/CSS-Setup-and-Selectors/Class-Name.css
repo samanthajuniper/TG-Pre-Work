@@ -1,0 +1,17 @@
+ p {
+      
+      font-family:Arial;
+    }
+
+h1 {
+  	
+  	color: maroon;
+  
+}
+   
+.title {
+  
+  color:teal;
+}
+
+/* HTMl elements can be given class names, which can then be referenced on a CSS stlying sheet. On the HTML page, there is an element with the class name of "title". In the CSS sheet, I selected that class name on line 14 by putting a period in front of the class name. Anything on the HTML page that hasthe "title" class will now be teal. */

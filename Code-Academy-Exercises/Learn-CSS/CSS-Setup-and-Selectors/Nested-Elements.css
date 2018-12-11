@@ -1,0 +1,6 @@
+.description h5 {
+    
+  color: teal;
+}
+
+/*CSS stlying can apply to nested elements within a parent element. On line 1 I selected the parent element "descrption" and then the nested "h5" tag by separating them with a space. They will both display in teal. */ 

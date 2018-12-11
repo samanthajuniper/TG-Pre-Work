@@ -1,0 +1,12 @@
+h5 {
+  
+  color:rebeccapurple !important;
+  
+}
+
+.description h5 {
+    
+  color: teal;
+}
+
+/* The !important attribute is more specific than ids and it will overrule any other styling rule. On line 3, the !important attribute will now make all h5 tags rebeccapurple reagrdless of other rules in the code. So even h5 elements within descriptions will be rebeccapurple, not teal. This shouldn't be used very often, as it may make your code inflexible because it is hard to override. */
