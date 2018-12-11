@@ -1,0 +1,10 @@
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+/* Font size can be changed by putting in a numerical value in pixel units. On line 7 I made the font size of paragraphs equal to 18 pixels. */
