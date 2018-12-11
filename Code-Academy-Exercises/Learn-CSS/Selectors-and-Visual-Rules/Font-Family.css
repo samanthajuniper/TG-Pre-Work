@@ -1,0 +1,29 @@
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Georgia;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 24px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: 70%;
+  font-family: Georgia;
+}
+
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+}
+
+/* The font-family property can be used to change the font style of HTML elements. On lines 6, 18, and 26 I added fonts to different HTML elements. It is best practice to use three or less fonts on a given page, as this will help the web page load faster. Not all fonts will disaply for all users, as they need to be downloaded on a user's computer to load. If no font is specified or if a font is not downloaded on a user's computer, the page will default to Times New Roman. */

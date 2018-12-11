@@ -1,0 +1,17 @@
+.caption {
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 60%;
+  background-color:white;
+  color:black;
+}
+
+
+/* The background color and the element color (or the foreground color) can also be changed in CSS. On line 12 I set the background color of the caption class to white, while the text color is set to black on line 13. */

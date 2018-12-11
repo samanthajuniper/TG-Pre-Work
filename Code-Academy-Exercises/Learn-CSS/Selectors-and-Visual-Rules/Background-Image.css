@@ -1,0 +1,8 @@
+.image {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+/* The property "background-image" can be set to the value of a URL that links to a local or external image. On line 2 the background image has been set to an external image link that will display the image on the bakground of the page. If I wanted to use an image on my computer, I would have to provide a local file path to the image in place of the URL link. */

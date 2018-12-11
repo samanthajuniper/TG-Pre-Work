@@ -1,0 +1,11 @@
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* The font-wight property determines how bold or thin text is. On line 8 I set the font-weight property to a value of bold. I could also set the value to normal if I wanted text to appear non-bolded. */ 
