@@ -1,0 +1,11 @@
+.banner p {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+
+/* The line height can be changed regardless of the size of the text it contains. The "line-height" property can take either unitless number that acts as an absolute value or it can take on a value with recognized CSS units (i.e. pixles, ems, etc.). The unitless value is best practice because it automatically readjusts if the text within it changes size. */ 

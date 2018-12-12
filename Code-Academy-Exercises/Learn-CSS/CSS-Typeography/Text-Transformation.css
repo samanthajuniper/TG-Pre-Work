@@ -1,0 +1,11 @@
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia; 
+  text-transform: uppercase;
+}
+
+
+
+
+/*The CSS property "text-transform" styles text to be either all uppercase or lowercase (see line 5). */

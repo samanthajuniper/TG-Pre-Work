@@ -1,0 +1,9 @@
+.font-card .creator {
+  font-size: 20px;
+  line-height: 1.25;
+  font-style: italic;
+}
+
+
+
+/* The font-style property italicizes text, and the default value is normal. On line 4 I italicized the element that has both the font-card and creator classes. */

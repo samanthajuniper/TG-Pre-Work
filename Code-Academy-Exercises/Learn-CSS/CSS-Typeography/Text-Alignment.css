@@ -1,0 +1,11 @@
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia; 
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+
+/*Text alignment defaults to the left side of the browser, and this can be changed through the "text-align" property. On line 6 I aligned the h1 element to the center of the page. */
