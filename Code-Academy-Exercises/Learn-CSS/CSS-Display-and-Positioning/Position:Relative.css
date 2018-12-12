@@ -1,0 +1,8 @@
+.question {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+
+/* The position:relative CSS declaration moves an element to a differnet spot on the page relative to its default position. On lines 3 and 4 I moved the HTML element with the class question down 40 pixels from its default position. */

@@ -1,0 +1,10 @@
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+  position: fixed;
+  z-index: 10;
+}
+
+
+
+/* The z-index property controls the depth of elements on our page, and can help prevent overlapping. The z-index takes numerical values that displays elements in order of which z-index value is greatest. On line 5 the z-index value of 10 puts the header element forward over other elements so that it is visible when scrolling down the page. */

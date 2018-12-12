@@ -1,0 +1,19 @@
+
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+  position: fixed;
+}
+
+.welcome {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 200px;
+}
+
+
+/* A fixed position keeps an element in a specific place on the page even when a user is scrolling. On line 5 I made the header element fixed, which keeps the header in the same position on the screen even when the user is scrolling down. The fixed positioning also took the header element out of the flow of the page, so it overlapped with the welcome element. I added relative positioning to the welcome element and shifted it down 200px so that the header was no longer overlapping it. */
