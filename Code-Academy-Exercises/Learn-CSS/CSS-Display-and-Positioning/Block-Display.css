@@ -1,0 +1,17 @@
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
+
+
+<!DOCTYPE html>
+
+<footer>
+    <h3>Thanks for taking our survey</h3>
+</footer>
+
+
+
+
+/* Block-level elements take up the entire width of a page by default, but their width can be adjusted using the width property in CSS. The display:block declaration allows other elements to take on a block-level display. The h3 element on line 10 is a block-level element by default, so it already takes up the entire width of the page. The height for block elements can also be changed. */

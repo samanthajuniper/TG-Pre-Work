@@ -1,0 +1,18 @@
+.question {
+  text-align: center;
+  position: relative;
+  top: 40px;
+  clear:left;
+}
+
+.answer {
+  border: 1px solid #466995;
+  margin: 20px;
+  display: inline-block;
+  float: left;
+}
+
+
+
+
+/*The clear property allows you to specify how elements should act when they come into contact with other elements on the page. The answer divs are flaoted to the left (see line 12), and the question elements are set to clear:left so they do not touch the answer elements(see line 5). */

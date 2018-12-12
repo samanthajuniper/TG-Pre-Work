@@ -1,0 +1,9 @@
+.answer {
+  border: 1px solid #466995;
+  margin: 20px;
+  display: inline-block;
+  float: left;
+}
+
+
+/*The float property allows you to position a given element as far right or left on the page as is possible. Floated elements require a specified width or else they will take up the full space of its containing element. On line 5 I floated the answer divs to the left of the page. */

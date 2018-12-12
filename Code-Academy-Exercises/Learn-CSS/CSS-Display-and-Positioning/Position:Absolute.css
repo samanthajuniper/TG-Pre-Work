@@ -1,0 +1,11 @@
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+  position: absolute;
+  width:100%;
+}
+
+
+
+
+/* When an element is in absolute positioning it is treated as though it is not actually on the page by other elements. This element will also be positioned relative to its parent element. The header above has an absolute position, and it overlaps other elements on the page. */

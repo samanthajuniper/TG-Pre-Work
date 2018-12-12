@@ -1,0 +1,7 @@
+.question {
+  text-align: center;
+  position: static;
+}
+
+
+/*HTML elements have a default position to the left side of the browser. This can be changed using the position property, which takes on one of four values: static, relative, absolute, and fixed. On line 4 the value "static" does not change the position of the element with the class of question becuase that is the default position to the left of the browser. */

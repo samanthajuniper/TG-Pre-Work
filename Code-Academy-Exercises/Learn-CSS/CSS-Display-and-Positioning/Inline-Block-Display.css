@@ -1,0 +1,29 @@
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;
+}
+
+
+.welcome {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 50px;
+}
+
+
+.answer {
+  border: 1px solid #466995;
+  margin: 20px;
+  display: inline-block;
+}
+
+/* The inline-block display value allows separate elements to appear in a horizontal line across the webage given that there is enough room. On line 7 above I set all list elements to a display value of inline-block, which put them next to each other across the page. There was no enough room for the 6th list item, so it appeared on the next line below the first 5 list elements. I did the same thing for the answer divs on line 26. The height and width of inline-block elements can be changed, and they do not take up their entire container width. */
