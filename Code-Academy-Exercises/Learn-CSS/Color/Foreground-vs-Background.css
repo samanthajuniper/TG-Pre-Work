@@ -1,0 +1,15 @@
+h1 {
+  color: MidnightBlue;
+  background-color: aqua;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+
+
+/*Foreground color refers to the color of an element. Background color refers to the element's background color. Line 2 makes the text between the h1 tags midnght blue, while line 3 makes the background color behind the h1 text aqua. */

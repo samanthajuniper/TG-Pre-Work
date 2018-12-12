@@ -1,0 +1,22 @@
+.green {
+  background-color: #8FBC8F;
+}
+
+.light {
+  background-color:#A0522D;
+}
+
+.city {
+  background-color: #8B4513;
+}
+
+.vienna {
+  background-color:  #A52A2A;
+}
+
+.italian {
+  background-color:#000000;
+}
+
+
+/* Hexidecimal is a specific syntax system that idenitfies hex colors using the "#" character followed by 3-6 numbers or letters. The numbers and letters represent values for red, blue, and green. This syntax system uses numbers 0-15, with letters A-F representing numbers 10-15. On lines 2, 6, 10, 14, & 18, the hexidecimal syntax is used in place of the color names. */

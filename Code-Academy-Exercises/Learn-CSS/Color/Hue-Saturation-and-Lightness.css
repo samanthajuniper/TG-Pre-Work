@@ -1,0 +1,17 @@
+
+body {
+  background-color: hsl(240, 100%, 80%);
+}
+
+.midground {
+  background-color: hsl(225, 100%, 25%);
+}
+
+.foreground {
+  background-color: hsl(325, 50%, 50%);
+}
+
+
+
+
+/*The hue-saturation-lightness color scheme (HSL) also has its own syntax for representing colors: hsl(degree of hue, saturation %, lightness%). The degree value references a location on the color wheel. The saturation refers to the intesity of the color. And the lightness is how light or dark the color is. */
