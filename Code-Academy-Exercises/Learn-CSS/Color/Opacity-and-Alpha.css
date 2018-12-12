@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(0, 255, 0, 0.5);
+}
+
+body {
+  background-color: rgba(0, 255, 0, 0.1);
+}
+
+
+.midground {
+  background-color: hsla(225, 100%, 25%, .4);
+}
+
+.foreground {
+  background-color: hsla(325, 50%, 50%, .6);
+}
+
+
+
+
+/*The opacity or transparency of an element can be changed so that underlying elements can be seen through top elements. The alpha property can be added to either HSL or RGB syntax to add an opacity value. Alpha is a number ranging from 0 to 1, with one being the most opaque. Opacity also has a color name and can be used like this: color: transparent. On lines 2, 6, 11, & 15 I added opacity values to rgb and hsl syntax. The background colors blended differently depending on their opacity value. */

@@ -1,0 +1,15 @@
+green {
+  background-color: rgb(143, 188, 143);
+}
+
+.light {
+  background-color: rgb(160, 82, 45);
+}
+
+.city {
+  background-color:rgb(139, 69, 19);
+}
+
+
+
+/*RGB colors can be represented in a different syntax: "color: rgb(decimal #1, decimal #2, decimal #3). The decimal number values can range from 0 to 255. This syntax is different from hexidecimal syntax, but it will produce the same color. Lines 2, 6, & 10 demonstrate the RGB syntax. */

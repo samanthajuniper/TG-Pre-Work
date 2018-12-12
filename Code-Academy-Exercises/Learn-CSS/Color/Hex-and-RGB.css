@@ -1,0 +1,14 @@
+.green {
+  background-color: #9EB599;
+}
+
+.light {
+  background-color: #683C2C;
+}
+
+.city {
+  background-color:#4C352D;
+}
+
+
+/* I converted all of the background-colors above from the RGB format to the hexidecimal format (i.e. #9EB599 = rgb(143, 188, 143)). Although the syntax differed, the colors remained the sam eon the webpage. */
