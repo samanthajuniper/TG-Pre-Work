@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Glegoo";
+  src: url(../fonts/Glegoo-Regular.ttf) format('truetype');
+}
+
+.banner p {
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.4;
+  font-family: "Glegoo";
+  font-size: 20px;
+}
+
+
+/* The @font-face property can also call locally downloaded fonts as well. Instead of a URL, you use a local file path. Also a format is added to each file to specify which font should be used. On lines 1-4 I used the "@font-face" property to load the locally stored font "Glegoo". I then added this font to the paragraphs with the class of "banner". */

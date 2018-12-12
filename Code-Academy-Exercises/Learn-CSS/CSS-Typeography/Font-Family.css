@@ -1,0 +1,20 @@
+h1 {
+  color: white;
+  font-size: 28px;
+  font-family: Georgia; 
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 2.5;
+  font-family: Georgia; 
+}
+
+p {
+  margin: 16px 0;
+  font-family: Helvetica; 
+}
+
+
+/*Font family refers to the type of font, or typeface, text is styled in. In order for a specific font to be displayed on a web page, it must be downloaded on a user's computer. Else the default typeface, Times New Roman will be displayed. It is best practice to limit the number of typefaces in a page to 2 or 3 different styles so that page loading isn't slowed. Lines 4, 11, & 16 demonstrate the syntax used to apply a typeface to an element. */

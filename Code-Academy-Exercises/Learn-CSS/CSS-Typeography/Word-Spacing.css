@@ -1,0 +1,13 @@
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 2.5;
+  font-family: Georgia;
+  word-spacing: 0.05em;
+}
+
+
+
+
+
+/* The spacing between words can be manually altered with the CSS property "word-spacing". This property takes numeric values ranging from 0-1 with em units(see line 6). Most text spacing defaults to .25em. */

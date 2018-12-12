@@ -1,0 +1,14 @@
+.header {
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 1.25;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-weight: 900;
+}
+
+
+
+/* The font weight property can also take numerical values in multiples of 100, where 100 is the lightest font-weight. The default font-weight of most text is 400, though not all fonts can take on this property. On line 9 I assigned the element with the class of "header" to a heavy font weight. */

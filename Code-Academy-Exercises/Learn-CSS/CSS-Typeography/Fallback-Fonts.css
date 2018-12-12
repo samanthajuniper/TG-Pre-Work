@@ -1,0 +1,11 @@
+.garamond .sample .text {
+  font-family: "Garamond" , serif;
+}
+
+.helvetica .sample .text {
+  font-family: "Helvetica" , sans-serif;
+}
+
+
+
+/*Most computers have a set of typefaces already installed, and these are displayed in circumstances where a web pages specific fonts are not on the user's computer. Hence they are called fallback fonts. A specific syntax is used for these fallback fonts. On line 2 the html element selected will use the "Garamon" font, if its available, and if it isn't it will use the fallback font serif. */

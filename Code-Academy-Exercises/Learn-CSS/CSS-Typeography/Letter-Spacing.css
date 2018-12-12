@@ -1,0 +1,12 @@
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 2.5;
+  font-family: Georgia;
+  word-spacing: 0.05em;
+  letter-spacing: 0.02em;
+}
+
+
+
+/* The CSS property letter-spacing controls the amount of space between individual letters, and it also takes numeric values in em units (see line 7). */

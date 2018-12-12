@@ -1,0 +1,12 @@
+.space .sample .text {
+    
+  font-family: "Space Mono", monospace;
+}
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
+
+
+
+/*I learned how to link to a google font on my html sheet. Within the self-closing link tag I added the font URL and set it equal to the sum of the two fonts I wanted. Then I added a colon to specify the font weights I wanted as well. I also specified that the link was related to the stylesheet. On my stylesheet I applied the Space Mono font to the element with the fallback font of monospace.*/
