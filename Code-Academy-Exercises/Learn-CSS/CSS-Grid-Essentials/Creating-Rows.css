@@ -1,0 +1,11 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template-columns: 100px 50% 200px;
+  grid-template-rows: 40% 50% 50px;
+}
+
+
+/* By default rows are sized to fit evenly within the grid, but they can also be manually specified. The "grid-template-rows" property takes values of height for each row.  On line 7 I made the first row 40%of the grid's remaining total height 9; the second row is 50% of the grid's remaining total height; the third row is 50 pixles tall. */

@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template:   1fr 1fr 1fr / 3fr 50% 1fr;
+}
+
+
+/* CSS Grid uses a unit of measurement called the fraction (fr), which defines the size of columns and rows as a fraction of the grid's total length and width. This unit of measurement makes it easier to prevent grid items from overflowing the boundaries of their grid container. On line 6 the rows are set to take up an equal fraction of the available 400px of available width. The second colum of the grid will take up 50% of the avilable height (so 250px). The first column will take up 3/4 of the remainin height available (so 187.5 px) and the third column will take up 1/4th of the remaining height (so 62.5 px). */

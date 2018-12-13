@@ -1,0 +1,24 @@
+.a {
+  grid-area: 5 / 1 / span 2 / span 2;
+}
+
+.b {
+  grid-area: 2 / 2 / span 3 / span 6;
+}
+
+.c {
+  grid-area: 6 / 8 / span 3 / span 1;
+}
+
+
+
+<body>
+  <div class="grid">
+    <div class="box a">A</div>
+    <div class="box b">B</div>
+    <div class="box c">C</div>
+  </div>
+</body>
+
+
+/* The property "grid-area" sets the start and end of both rows and columns in the same line of code. The order of the values is important and works like so: "grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end". On line 2 the grid item of class a will occupy rows 5 and 6, and columns 1 and 2. */

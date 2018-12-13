@@ -1,0 +1,22 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width:400px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+  grid-row-gap: 20px;
+  grid-column-gap: 5px;
+}
+
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width:400px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+  grid-gap: 20px 5px;
+ 
+}
+
+
+/* The space between items in a grid can be manually changed using the "grid-row-gap"  or "grid-column-gap" properties. These properties can set row and column gaps in the same line of code using the "grid-gap" property, but there is no forward slash to separate them. On line 7 the row gap is set to 20 pixels, which will create two 10px gaps. Line 8 sets the column gap to 5 pixels, which will create two 2.5 pixel gaps. On line 17 I combined these two gap sizes into a single line of code, with the row's gap value first. */

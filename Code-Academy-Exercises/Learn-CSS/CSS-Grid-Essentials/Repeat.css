@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+}
+
+
+/* The properties that define the number of grids and rows can take on the value of the repeat function, which duplicates the specifications for rows or columns a given number of times. On line 6 the repeat function is used to create three rows each 1 fraction of the total grid width. */
