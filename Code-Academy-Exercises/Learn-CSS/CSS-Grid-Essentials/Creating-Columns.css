@@ -1,0 +1,12 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: 100px 50% 200px;
+}
+
+
+
+
+/* Grids have one column as a default, but more columns can manually be added using the following declaration: "grid-template-columns: width of column #1 in pixels or % of entire grid's width, width of column #2 in pixles or % of entire grid's width,, etc." . On line 6 I created three columns on the grid. The first column is 100 pixles wide; the second column is 50% of the entire grid width (200 pixels); the third column is 200 pixels wide. */

@@ -1,0 +1,23 @@
+.b {
+  
+  grid-column: 2 / span 6;
+  grid-row: 2/ span 3;
+  
+}
+
+a {
+  grid-row: 5 / 7;
+  grid-column: 1 / span 2;
+
+}
+
+
+<body>
+  <div class="grid">
+    <div class="box a">A</div>
+    <div class="box b">B</div>
+  </div>
+</body>
+
+
+/* The properties "grid-column-start", "grid-column-end", and "grid-column" work identically to the row properties. The additional word "span" can be added to start or end a row or column relative to its other end, which is useful in eliminating arithmetic errors. The item of class b will start at column 2 and end on column 7; I used "span" to extend the item 6 columns from column number two (see line 3). This item will also start on row 2 and end on row 5; I used "span" to extend the item 3 rows from row number two (See line 4). */

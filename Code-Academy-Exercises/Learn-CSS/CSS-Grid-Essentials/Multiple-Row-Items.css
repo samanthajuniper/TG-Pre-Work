@@ -1,0 +1,8 @@
+.a {
+  grid-row-start: 5;
+  grid-row-end: 7; 
+}
+
+
+
+/* In order to make a single grid item span mulitple rows, we add CSS properties to the elements inside the grid--not the grid container. On line 2, the item of class a will begin on the fifth row of the grid. On line 3, the item of class a will end at row 6. So this item takes up two rows: 5 and 6. The syntax for "grid-row-end" is the row you want your item to end on plus one. */

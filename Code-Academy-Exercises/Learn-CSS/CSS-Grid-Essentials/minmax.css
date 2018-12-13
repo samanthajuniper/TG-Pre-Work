@@ -1,0 +1,9 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  grid-template: repeat(3, 1fr) / 3fr minmax(50px, 300px) 1fr;
+}
+
+
+/*Grids can be set so they resize based on the browser size, and the "minmax" function can prevent columns and rows from getting too big or too small in the process. Because width is not specified in the code above, the width of the columns will change as the browser size changes. On line 5 the third column will not go below 50 pixels wide or above 300 pixels wide when the browser is resized. */

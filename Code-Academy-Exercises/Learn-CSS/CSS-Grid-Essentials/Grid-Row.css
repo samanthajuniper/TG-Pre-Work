@@ -1,0 +1,5 @@
+.a {
+  grid-row: 5 / 7;
+}
+
+/* The "grid-row" property is used to combine the "grid-row'start" and "grid-row-end" properties into a single line of code. Line 2 shows that the grid item of class a will span rows 5 & 6. */

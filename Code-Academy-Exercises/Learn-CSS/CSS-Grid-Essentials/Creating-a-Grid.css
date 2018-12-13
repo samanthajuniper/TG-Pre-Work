@@ -1,0 +1,10 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display:grid;
+}
+
+
+
+/* A CSS grid is made up of a grid container, the parent element, and grid items, the child elements, that have overarching styling and positioning applied to them. On line 5 I set the display property of the html elements with the class of "grid" equal to of the value grid. These elements are now all positioned in a new row. */
