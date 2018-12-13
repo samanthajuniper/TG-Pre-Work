@@ -1,0 +1,35 @@
+main {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: repeat(3, 450px);
+  grid-gap: 20px;
+  margin-top: 44px;
+  grid-auto-rows: 500px;
+  justify-items: center; 
+  justify-content: space-between;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: repeat(3, 450px);
+  grid-gap: 20px;
+  margin-top: 44px;
+  grid-auto-rows: 500px;
+  justify-items: center; 
+  justify-content: space-around;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: repeat(3, 450px);
+  grid-gap: 20px;
+  margin-top: 44px;
+  grid-auto-rows: 500px;
+  justify-items: center; 
+  justify-content: end;
+}
+
+
+/*The property "justify-content" can be used to position an entire grid along the row axis. On line 9 I used this property to create an equal amount of space between the two columns with no space on the ends of the page. On line 20 I set this property to create an equal amount of space on each side of the grid element. On line 31 the value "end" moves all grid elements to the right side of the page. On line 31 the grid element is positioned in the center of the grid container. */
