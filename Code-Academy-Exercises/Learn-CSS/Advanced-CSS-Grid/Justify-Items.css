@@ -1,0 +1,29 @@
+.recipe {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  width: 200px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: repeat(3, 450px);
+  grid-gap: 20px;
+  margin-top: 44px;
+  grid-auto-rows: 500px;
+  justify-items: end; 
+}
+
+
+main {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  grid-template-rows: repeat(3, 450px);
+  grid-gap: 20px;
+  margin-top: 44px;
+  grid-auto-rows: 500px;
+  justify-items: center; 
+}
+
+
+
+/* On line 3 I specified the width of particular grid items of class "recipe". This prompted these elements to take up 200 pixels of the 250 pixel container it is in. On lines 13 and 24 I used the "justify-items" property to move the 200px wide recipe elements to the right and center positions repsectively along the row axis within their 250px columns. */
