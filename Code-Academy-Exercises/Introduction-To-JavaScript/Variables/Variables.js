@@ -1,1 +1,1 @@
-/* A variable is container for a value,and they provide a way of labeling data with descriptive names. Variables themselves are not values, they just contain and represent them with a name. Variables can also update values stored within it and retireve the information it stored. */
+/* A variable is container for a value, and they provide a way of labeling data with descriptive names. Variables themselves are not values, they just contain and represent them with a name. Variables can also update values stored within it and retrieve the information it stored. */
