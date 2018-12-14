@@ -1,0 +1,1 @@
+// JavaScript is a programming lanaguage that is used to add interative elements to websites. 
