@@ -1,0 +1,1 @@
+/*Conditional statements add logic to code and let programs make decisions by evaluating conditions. Computers read conditional statements to check specific conditions and perform tasks based on those conditions. */

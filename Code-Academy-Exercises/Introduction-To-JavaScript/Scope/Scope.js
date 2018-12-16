@@ -1,0 +1,1 @@
+/* Scope defines where variables can be accessed or referenced. Some variables can only be accessed in specific contexts, while others can be accessed anywhere. */
