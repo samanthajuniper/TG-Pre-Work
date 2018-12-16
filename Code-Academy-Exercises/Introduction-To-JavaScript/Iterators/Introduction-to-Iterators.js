@@ -1,0 +1,1 @@
+/*Iteration methods or iterators are built into JavaScript, and they can call on arrays to manipulate elements and return values. Examples of these methods include: ".forEach()", ".map()", and ".filter()". */
