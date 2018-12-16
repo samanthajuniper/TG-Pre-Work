@@ -1,0 +1,1 @@
+/*Functions are used to prevent having to write the same code multiple times. Functions allow us to group a block of code together and associate it with one task, so we can reuse that block of code whenever we need to perform the task again. */
