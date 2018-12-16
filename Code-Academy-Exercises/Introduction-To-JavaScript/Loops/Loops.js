@@ -1,0 +1,1 @@
+/* A loop is a programming tool that repeatedly executes (or iterates) code until a stopping condition is reached. Loops create efficient code that automates processes to make scalable, manageable programs. */
