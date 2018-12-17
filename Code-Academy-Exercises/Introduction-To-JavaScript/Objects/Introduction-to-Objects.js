@@ -1,0 +1,1 @@
+/*There are only seven fundamental data types in JavaScript, and six of those are the primitive data types: string, number, boolean, null, undefined, and symbol. The seventh is objects, and they can be used to model real-world things and to build the data structures that make the web possible. Objects are essentally containers that store related data and functionality. */
