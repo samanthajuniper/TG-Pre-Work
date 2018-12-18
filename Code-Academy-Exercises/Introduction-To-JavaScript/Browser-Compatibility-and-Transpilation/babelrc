@@ -1,0 +1,8 @@
+touch .babelrc 
+
+{
+  "presets": ["env"]
+}
+
+
+I used the "touch .babelrc" command in bash to create a new "babelrc" file. Then I navigated to the file explorer and added the code on lines 3-5 in order to add an object that specifies the preset to "env". This code specified that I am transpiling code from an ES6+ source. The preset specifies the version of my initial JavaScript file.
