@@ -1,0 +1,1 @@
+/*The "fetch()" function does three things: it creates a request object that contains relevant information that an API needs; it sends that request object to the API endpoint provided; it returns a promise that ultimately resolves to a response object, which contains the status of the promise with the information the API sent back. */

@@ -1,0 +1,1 @@
+/*ES8 made functionality for GET requests simpler using the "async", "await", "try", and "catch" statements. */
