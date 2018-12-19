@@ -1,0 +1,1 @@
+/*While the async POST and async GET requests follow a similar structure, there are key differences. In an async POST request we include additional parameters "method" and "body" within the "fetch()" function's second argument. */
