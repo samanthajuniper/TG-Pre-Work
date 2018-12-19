@@ -1,0 +1,1 @@
+/*JavaScript modules are reusable pieces of code that can be exported from one program and imported for use in another program. Separating code into different modules according to logic similarity is helpful for debugging code, reusing defined logic, keepng information private, and preventing pollution of the global namespace. */
