@@ -8,4 +8,4 @@
 <h1 class="title uppercase" id="article-title">Top Vacation Spots</h1>
 
 
-/* Similar to a class attribute, and id attribute can be given to an HTML element tag in order to apply unique styling to that specific element. On line 8, the h1 tag was given an id of "article-title". In the CSS coding on lines 1-5 I selected the id using a "#" symbol in front of the id name. Now the contents of the h1 tag on line 8 will display in crusive and in all caps. */
+/* Similar to a class attribute, an id attribute can be given to an HTML element tag in order to apply unique styling to that specific element. On line 8, the h1 tag was given an id of "article-title". In the CSS coding on lines 1-5 I selected the id using a "#" symbol in front of the id name. Now the contents of the h1 tag on line 8 will display in crusive and in all caps. */
