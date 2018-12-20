@@ -48,4 +48,4 @@ main {
 
 
 
-/* The "align-items property positions grid itens from top to bottom along the column axis. On line 10 the the "align-items: start" declaration aligned items to the top side of each row. On line 22 the "align-items: end" declaration aligned items to the bottom side of each row. The "center" value for this property aligns grid items equally between the top and bottom of the row (see line 34). The "stretch" value for this property aligns grid along the entire height of the row (see line 46). */
+/* The "align-items" property positions grid items from top to bottom along the column axis. On line 10 the the "align-items: start" declaration aligned items to the top side of each row. On line 22 the "align-items: end" declaration aligned items to the bottom side of each row. The "center" value for this property aligns grid items equally between the top and bottom of the row (see line 34). The "stretch" value for this property aligns grid along the entire height of the row (see line 46). */
